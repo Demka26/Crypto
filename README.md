@@ -1,6 +1,6 @@
 # Block
 # BlockChain
-#Transaction
+# Transaction
 # Message
 
 contributed by Demi Gelfond, Shoval Soli, Ohad Cohen
